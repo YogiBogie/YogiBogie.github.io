@@ -1,0 +1,21 @@
+# Site settings
+title: Learning New Tricks
+header-img: img/home-bg.png
+email: jorge_cossi@yahoo.com
+copyright_name: YogiBogie
+description: > # this means to ignore newlines until "baseurl:"
+  Just a guy trying to follow his dreams by doing something he loves.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: jcos201
+github_username:  YogiBogie
+learn_profile: YogiBogie
+email_username: jorge_cossi@yahoo.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
