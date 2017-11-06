@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How I Conquered My Fear of Ruby CLI GEM"
-date:       2017-11-06 22:54:08 +0000
+date:       2017-11-06 17:54:09 -0500
 permalink:  how_i_conquered_my_fear_of_ruby_cli_gem
 ---
 
